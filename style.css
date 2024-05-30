@@ -36,7 +36,7 @@ aside > #lista{
 }
 header{
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
-    font-weight: normal;
+    
     min-height: 150px; 
     text-align: center;
     padding-top: 30px;
@@ -49,7 +49,7 @@ header > h1{
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.267);/*#46f79691;*/
     margin-bottom: 20px;
     font-size: 3em;
-    
+    font-weight: normal;
 }
 header > p{
     font-family: var(--fonte-padrao);
